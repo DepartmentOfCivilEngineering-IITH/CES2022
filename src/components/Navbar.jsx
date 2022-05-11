@@ -94,7 +94,7 @@ export class Navbar extends Component {
 
                       </li>
                       <li className="nav-item" data-bs-dismiss="offcanvas">
-                        <NavLink exact activeClassName="active_class" to="/gallery" className='nav-link'>Gallary</NavLink>
+                        <NavLink exact activeClassName="active_class" to="/gallery" className='nav-link'>Gallery</NavLink>
 
                       </li>
                       <li className="nav-item" data-bs-dismiss="offcanvas">
