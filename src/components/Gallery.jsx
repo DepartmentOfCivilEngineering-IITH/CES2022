@@ -90,7 +90,7 @@ const Gallery = () => {
         <div className='container-fluid' style={container_setting}>
             <div className='row'>
                 <div className='col'>
-                    <h1 style={about_heading_1}>Gallary</h1>
+                    <h1 style={about_heading_1}>Gallery</h1>
                     <center><hr style={hr_1}></hr></center>
                     <br></br>
                     <div className="card" style={main_card}>
