@@ -31,7 +31,7 @@ export class footer extends Component {
                                 <h2>Contact us</h2><center><hr></hr></center>
                                 <p> Head, Department of Civil Engineering, Indian Institute of Technology Hyderabad, Kandi, Telangana - 502285, India.</p>
                                 <a href="mailto:ces@ce.iith.ac.in">Mail id : ces@ce.iith.ac.in</a><br></br>
-                                <a href="tel:91 7769944432">Mobile : +91 7769944432</a>
+                                <a href="tel:91 9959527775">Mobile : +91 9959527775</a>
                             </div>
 
                             <div className='col-md-3 tab-3'>
