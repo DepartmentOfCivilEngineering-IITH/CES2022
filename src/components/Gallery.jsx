@@ -17,6 +17,14 @@ import pic_15 from './images/gallary/pic-15.JPG';
 import pic_16 from './images/gallary/pic-16.JPG';
 import pic_17 from './images/gallary/pic-17.jpg';
 import pic_18 from './images/gallary/pic-18.JPG';
+import pic_19 from './images/gallary/pic-19.jpeg';
+import pic_20 from './images/gallary/pic-20.jpeg';
+import pic_21 from './images/gallary/pic-21.jpeg';
+import pic_22 from './images/gallary/pic-22.jpeg';
+import pic_23 from './images/gallary/pic-23.jpeg';
+import pic_24 from './images/gallary/pic-24.jpeg';
+import pic_25 from './images/gallary/pic-25.jpeg';
+import pic_26 from './images/gallary/pic-26.jpeg';
 const Gallery = () => {
     //css stylimg
     const about_color = {
@@ -175,6 +183,25 @@ const Gallery = () => {
 </div>
 
 
+
+<div className='row'>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_19} style={img}></img>
+        <p style={content}>Civil Department Sports Matches</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_20} style={img}></img>
+        <p style={content}>Civil Department Sports Matches</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_21} style={img}></img>
+        <p style={content}>Civil Department Sports Matches</p>
+    </div>
+</div>
+
+
+
+
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
         <img src={pic_16} style={img}></img>
@@ -189,6 +216,41 @@ const Gallery = () => {
         <p style={content}>Civil Engineering Research Scholars Day prize distribution ceremony</p>
     </div>
 </div>
+
+
+
+<div className='row'>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_22} style={img}></img>
+        <p style={content}>Faculty's and Student's Informal Sports</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_23} style={img}></img>
+        <p style={content}>Faculty's and Student's Informal Sports</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_24} style={img}></img>
+        <p style={content}></p>
+    </div>
+</div>
+
+
+
+<div className='row'>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_25} style={img}></img>
+        <p style={content}>Dr. Somala receiving Faculty Research Excellence Award 2022 on Institute Foundation Day</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_26} style={img}></img>
+        <p style={content}>Dr. Somala receiving Faculty Research Excellence Award 2022 on Institute Foundation Day</p>
+    </div>
+    
+</div>
+
+
+
+
 
 
 

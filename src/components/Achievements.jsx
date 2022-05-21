@@ -2,6 +2,7 @@ import React from 'react';
 import chandrashekar from './images/achievements/chandrashekar.jpeg';
 import vedashree from './images/achievements/Vedashree.jpg';
 import iithlogo from './images/achievements/iithlogo.png';
+import somala from './images/achievements/somala.jpeg';
 const Funding_team = () => {
     //css stylimg
     const about_color = {
@@ -108,36 +109,36 @@ const span={
       
     </div>
   </div>
+
+</div>
+</div>
+</div>
+
+
+<div className='row'>
+                <div className='col-sm-4'>
+                
+                        <div class="card-deck" style={card_deck}>
+ 
+  <div class="card" style={main_card}>
+    <img src={somala} class="card-img-top" alt="..." style={img}/>
+    <div class="card-body" style={main_card_body}>
+      <h5 class="card-title">Faculty Research Excellence Award 2022</h5>
+      <p class="card-text">Dr. Surendra Nadh Somala receiving Faculty Research Excellence Award 2022 on Institute Foundation Day.
+</p>
+      
+    </div>
+  </div>
+  
+
+</div>
+</div>
 </div>
 
 
 
-
-
-
-                </div>
-            </div>
-
-            {/*<div classNameName='row'>
-<div className='col-sm-6 '>
-hello
 </div>
-<div className='col-sm-6'>
-hello
-</div>
-</div>*/}
-
-
-
-
-
-        </div>
-
-
-
-
-
-    </div>;
+</div>;
 };
 
 export default Funding_team;
