@@ -151,6 +151,7 @@ export class Navbar extends Component {
                   </a>
                   <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   
+                  <li><NavLink exact activeClassName="active_class" to="team_2223" className="dropdown-item">Team 2022-2023</NavLink></li>
                   <li><NavLink exact activeClassName="active_class" to="team_2122" className="dropdown-item">Team 2021-2022</NavLink></li>
                             <li><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Founding Team</NavLink></li>
 
