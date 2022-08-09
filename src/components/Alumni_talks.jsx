@@ -1,6 +1,7 @@
 import React from 'react';
 //import venkat from './images/seminars/venkat.jpg';
 import tarutal from './images/alumni talks/Tarutal.jpeg';
+import amar from './images/alumni talks/amar.png';
 const Alumni_talks = () => {
     //css stylimg
     const about_color = {
@@ -93,6 +94,15 @@ const content={
                     <h1 style={about_heading_1}>Alumni Talks</h1>
                     <center><hr style={hr_1}></hr></center>
                     <br></br>
+                    <div className="card" style={main_card}>
+                        <div className="card-body" style={main_card_body}>
+<h2 style={tittle}>Alumni Talk 2022</h2>
+<img src={amar} style={img}></img>
+<h3  style={speaker_name}> Mr. Amar Mandal</h3>
+<h3 style={abstract}>Abstract:-</h3>
+<p style={content}>Mr Amar Mandal graduated with a B.Tech in Civil Engineering from IIT Hyderabad in 2021 and is currently an executive trainee at GAIL(India) Limited. The talk was about him sharing his experiences at IIT Hyderabad and his placement. He also gave some tips about the preparation for PSU’s</p>
+                            </div>
+                            </div>
                     <div className="card" style={main_card}>
                         <div className="card-body" style={main_card_body}>
 <h2 style={tittle}>Autonomous Visio-based Condition Damage Assessment of Structures</h2>
