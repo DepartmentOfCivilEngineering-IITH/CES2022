@@ -1,26 +1,19 @@
 import React from 'react';
 import surya from './images/team 21-22/surya.jpg';
 import digvijay from './images/team 21-22/pawar.jpg';
-import ShashankGarg from './images/team 22-23/SHASHANK-GARG.jpeg';
-import Sumit from './images/team 22-23/Sumit.jpg';
-import SaiKrishi from './images/team 22-23/NARASINGU-SAI-KRISHI.jpeg';
-import AnandJoshua from './images/team 22-23/AnandJoshuaJacob.jpeg';
-import BallaTataka from './images/team 22-23/Balla-Taraka-Malleswara-Rao.jpeg';
-import Bhagyashree from './images/team 22-23/Bhagyashree-Khandare.jpeg';
-import Neelotpal from './images/team 22-23/Neelotpal-Tripathi.jpeg';
-import Sahithi from './images/team 22-23/SAHITHI-VEGGALAM.jpeg';
-import KanakLohiya from './images/team 22-23/KANAK-LOHIYA.jpeg';
-import Nikita from './images/team 22-23/SIRIVOLU-NIKITHA.webp';
-import Omprakash from './images/team 22-23/OMPRAKASH-KORRAM.jpeg';
-import CharanTeja from './images/team 22-23/JERIPOTHULA-CHARAN -TEJA.jpeg';
-import HarshJaiswal from './images/team 22-23/HARSH-JAISWAL.jpeg';
-import Vaibhav from './images/team 22-23/Vaibhav-Shukla.jpeg';
-import Rishit from './images/team 22-23/RISHIT-SINGH-SOMVANSHI.jpeg';
-import Pavan from './images/team 22-23/Alva-Pavan-Thimmappa.png';
-//import lachiram from './images/team 21-22/lachiram.jpg';
+import AdityaRana from './images/team 23-24/Aditya Rana.jpg';
+import BhukyaDivya from './images/team 23-24/BHUKYA DIVYA.jpg';
+import SuryaTarun from './images/team 23-24/Jagarapu Surya Tarun.jpg';
+import CharanTeja from './images/team 23-24/JERIPOTHULA CHARAN TEJA.jpg';
+import KanakLohiya from './images/team 23-24/KANAK LOHIYA.jpg';
+import Santosh from './images/team 23-24/Parepalli Santosh.jpg';
+import SiddharthYadav from './images/team 23-24/Siddharth Yadav.jpg';
+import Nikitha from './images/team 23-24/SIRIVOLU NIKITHA.jpg';
+import Vaibhav from './images/team 23-24/Vaibhav Shukla.jpg';
+import PrudhviRaj from './images/team 23-24/Vemula Prudhvi Raj.jpg';
+import Vignesh from './images/team 23-24/Vignesh.jpg';
 
-
-const Team_2122 = () => {
+const Team_2324 = () => {
     //css stylimg
     const about_color = {
         height: '350px',
@@ -172,16 +165,16 @@ const Team_2122 = () => {
 
                                 <div className='row justify-content-center' >
                                     <div className='col-md-4' style={card_col}>
-                                        <img src={ShashankGarg} alt=" " style={img} />
+                                        <img src={KanakLohiya} alt=" " style={img} />
                                         <div className="card " style={team_card}>
 
                                             <div className="card-body">
-                                                <h5 className="card-title">Shashank Garg</h5>
+                                                <h5 className="card-title">Kanak Lohiya</h5>
                                                 <p className="card-text">General Secretary</p>
                                                 <div style={icons} className='icons'>
-                                                    <a href="mailto:ce19btech11008@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                    <a href="tel:+91 7000188879" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                    <a href="https://www.linkedin.com/in/shashank-garg-2862231a9" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                    <a href="mailto:ce20btech11017@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                    <a href="tel:+91 9001911227" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                    <a href="https://in.linkedin.com/in/kanak-lohiya-9a7011269" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -190,46 +183,46 @@ const Team_2122 = () => {
 
                                 <div className='row justify-content-center' >
                                     <div className='col-lg-3' style={card_col}>
-                                        <img src={Sumit} alt=" " style={img} />
+                                        <img src={Nikitha} alt=" " style={img} />
                                         <div className="card " style={team_card}>
 
                                             <div className="card-body">
-                                                <h5 className="card-title">Sumit Saha</h5>
+                                                <h5 className="card-title">Nikitha Sirivolu</h5>
                                                 <p className="card-text">Event and Hospitality Coordinator</p>
                                                 <div style={icons} className='icons'>
-                                                    <a href="mailto:ce20mtech12002@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                    <a href="tel:+91 9380464351" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                    <a href="#" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                    <a href="mailto:ce20btech11039@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                    <a href="tel:+91 7981598430" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                    <a href="https://www.linkedin.com/in/nikitha-sirivolu-211993210/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div className='col-lg-3' style={card_col}>
-                                        <img src={SaiKrishi} alt=" " style={img} />
+                                        <img src={Vaibhav} alt=" " style={img} />
                                         <div className="card " style={team_card}>
 
                                             <div className="card-body">
-                                                <h5 className="card-title">Narasingu Sai Krishi</h5>
+                                                <h5 className="card-title">Vaibhav Shukla</h5>
                                                 <p className="card-text">PR and Media Coordinator</p>
                                                 <div style={icons} className='icons'>
-                                                    <a href="mailto:CE19BTECH11031@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                    <a href="tel:+91 8790340249" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                    <a href="#" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                    <a href="mailto:ce21btech11043@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                    <a href="tel:+91 6268065132" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                    <a href="https://www.linkedin.com/in/vaibhav-shukla-2618b2232" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div className='col-lg-3' style={card_col}>
-                                        <img src={AnandJoshua} alt=" " style={img} />
+                                        <img src={CharanTeja} alt=" " style={img} />
                                         <div className="card " style={team_card}>
 
                                             <div className="card-body">
-                                                <h5 className="card-title">Anand Joshua Jacob</h5>
+                                                <h5 className="card-title">Jeripothula Charan Teja</h5>
                                                 <p className="card-text">Web Development Coordinator</p>
                                                 <div style={icons} className='icons'>
-                                                    <a href="mailto:ce20btech11001@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                    <a href="tel:+91 7013470731" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                    <a href="https://www.linkedin.com/in/anand-joshua-jacob-7933bb213/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                    <a href="mailto:ce20btech11016@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                    <a href="tel:+91 7674844755" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                    <a href="https://www.linkedin.com/in/charan-teja-4aa4111b9/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -239,7 +232,7 @@ const Team_2122 = () => {
 
 
                         
-                                <div className='col-lg-3' style={card_col}>
+                                {/* <div className='col-lg-3' style={card_col}>
                                     <img src={BallaTataka} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
@@ -297,7 +290,7 @@ const Team_2122 = () => {
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
 
 
@@ -309,30 +302,30 @@ const Team_2122 = () => {
 
                         
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={KanakLohiya} alt=" " style={img} />
-                                    <div className="card" style={team_card} >
-                                        <div className="card-body">
-                                            <h5 className="card-title">Kanak Lohiya</h5>
-                                            <p className="card-text">Events and Hospitality Executive</p>
-                                            <div style={icons}>
-                                                <a href="mailto:ce20btech11017@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 9001911227" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="#" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className='col-lg-3' style={card_col}>
-                                    <img src={Nikita} alt=" "  style={img} />
+                                    <img src={Santosh} alt=" "  style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
-                                            <h5 className="card-title">Nikitha Sirivolu</h5>
+                                            <h5 className="card-title">Parepalli Santosh</h5>
                                             <p className="card-text">Events and hospitality Executive</p>
                                             <div style={icons} className='icons'>
-                                                <a href="mailto:ce20btech11039@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 7981598430" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/nikitha-sirivolu-211993210/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                <a href="mailto:ce21btech11030@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 7989766278" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://in.linkedin.com/in/santosh-parepalli-940935243" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className='col-lg-3' style={card_col}>
+                                    <img src={BhukyaDivya} alt=" " style={img} />
+                                    <div className="card" style={team_card} >
+                                        <div className="card-body">
+                                            <h5 className="card-title">Divya Bhukya</h5>
+                                            <p className="card-text">Events and Hospitality Executive</p>
+                                            <div style={icons}>
+                                                <a href="ce21btech11051@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 9392471783" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://www.linkedin.com/in/bhukya-divya-bbb87b234" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -340,29 +333,29 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ Omprakash} alt=" " style={img} />
+                                    <img src={Vignesh} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
-                                            <h5 className="card-title">Omprakash Korram</h5>
+                                            <h5 className="card-title">Vignesh</h5>
                                             <p className="card-text">Events and hospitality Executive</p>
                                             <div style={icons}>
-                                                <a href="mailto:ce20btech11027@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 7587210133" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/omprakash-korram-b54310225/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                <a href="mailto:ce22btech11055@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 765826626" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://www.linkedin.com/in/vignesh-48a31a244/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={CharanTeja} alt=" " style={img} />
+                                    <img src={SiddharthYadav} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
-                                            <h5 className="card-title">Jeripothula Charan Teja</h5>
+                                            <h5 className="card-title">Siddharth Yadav</h5>
                                             <p className="card-text">Web Development Executive</p>
                                             <div style={icons}>
-                                                <a href="mailto:ce20btech11016@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 7674844755" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/charan-teja-4aa4111b9/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                <a href="mailto:ce21btech11040@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 9630667701" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://www.linkedin.com/in/siddharth-yadav-4372b0228" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -378,30 +371,30 @@ const Team_2122 = () => {
                             <div className='row justify-content-center' >
                             
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={HarshJaiswal} alt=" " style={img} />
+                                    <img src={AdityaRana} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
-                                            <h5 className="card-title">Harsh Jaiswal</h5>
+                                            <h5 className="card-title">Aditya Rana</h5>
                                             <p className="card-text">Media Executive</p>
                                             <div style={icons}>
-                                                <a href="mailto:ce20btech11013@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 8115070045" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/harsh-jaiswal-537ab5225/" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                <a href="mailto:ce21btech11003@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 7366932894" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://www.linkedin.com/in/aditya-rana-aba180256" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={Vaibhav } alt=" "  style={img} />
+                                    <img src={SuryaTarun} alt=" "  style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
-                                            <h5 className="card-title">Vaibhav Shukla</h5>
+                                            <h5 className="card-title">J surya tarun</h5>
                                             <p className="card-text">Content Executive</p>
                                             <div style={icons} className='icons'>
-                                                <a href="mailto:ce21btech11043@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 6268065132" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
-                                                <a href="#" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
+                                                <a href="mailto:ce22btech11023@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 8179732200" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-telephone"></i></a>
+                                                <a href="https://in.linkedin.com/in/jagarapu-surya-tarun-0145b6259" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -409,28 +402,15 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ Rishit} alt=" " style={img} />
+                                    <img src={PrudhviRaj} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
-                                            <h5 className="card-title">Rishit Singh Somvanshi</h5>
+                                            <h5 className="card-title">Prudhvi Raj Vemula</h5>
                                             <p className="card-text">Design Executive</p>
                                             <div style={icons}>
-                                                <a href="mailto:ce20btech11032@iith.ac.in" style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 9196111222 " style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-telephone"></i></a>
-                                                <a href="https://www.linkedin.com/in/rishit-singh-somvanshi-3b2064238" style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-linkedin"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className='col-lg-3' style={card_col}>
-                                    <img src={ Pavan} alt=" " style={img} />
-                                    <div className="card" style={team_card} >
-                                        <div className="card-body">
-                                            <h5 className="card-title">Alva Pavan</h5>
-                                            <p className="card-text">Design Executive</p>
-                                            <div style={icons}>
-                                                <a href="mailto:ce21btech11006@iith.ac.in" target="_blank" rel="noreferrer" style={icon_link}><i class="bi bi-envelope"></i></a>
-                                                <a href="tel:+91 8452056190" target="_blank" rel="noreferrer" style={icon_link} ><i class="bi bi-telephone"></i></a>
+                                                <a href="mailto:ce22btech11054@iith.ac.in" style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-envelope"></i></a>
+                                                <a href="tel:+91 6302735579 " style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-telephone"></i></a>
+                                                <a href="#" style={icon_link} target="_blank" rel="noreferrer"><i class="bi bi-linkedin"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -500,4 +480,4 @@ hello
     </div>;
 };
 
-export default Team_2122;
+export default Team_2324;

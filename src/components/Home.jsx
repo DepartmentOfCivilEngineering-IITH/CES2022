@@ -13,11 +13,11 @@ export class Home extends Component {
             <section className='section-1'>
 
                 <video autoPlay muted loop className='video-1'>
-                    <source src={iith} type="video/mp4"></source>
+                    <source src={iith} alt=" " type="video/mp4"></source>
                 </video>
 
                 <div className="content-1">
-                    <img src={img1}></img>
+                    <img src={img1} alt=" "></img>
                     <h1>Civil Engineering Society IIT Hyderabad</h1>
 
                 </div>
@@ -76,7 +76,7 @@ export class Home extends Component {
                             <br></br>
                             <br></br>
                             <video autoPlay muted loop className="Video-2" style={{ width: '100%' }}>
-                                <source src={ces} type="video/mp4"></source>
+                                <source src={ces} alt=" " type="video/mp4"></source>
 
 
                             </video>

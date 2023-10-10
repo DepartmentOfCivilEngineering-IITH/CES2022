@@ -11,9 +11,10 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './components/Home';
 import About from './components/About';
-import Funding_team from './components/Funding_team'
-import Team_2122 from './components/Team_2122'
-import Team_2223 from './components/Team_2223'
+import Funding_team from './components/Funding_team';
+import Team_2122 from './components/Team_2122';
+import Team_2223 from './components/Team_2223';
+import Team_2324 from './components/Team_2324';
 import Achievements from './components/Achievements';
 import Gallery from './components/Gallery';
 import Seminars from './components/Seminars';
@@ -38,6 +39,7 @@ function App() {
         <Route path="/funding_team" component={Funding_team} />
         <Route path="/team_2122" component={Team_2122} />
         <Route path="/team_2223" component={Team_2223} />
+        <Route path="/team_2324" component={Team_2324} />
         <Route path="/achievements" component={Achievements} />
         <Route path="/gallery" component={ Gallery} />
         <Route path="/seminars" component={Seminars} />

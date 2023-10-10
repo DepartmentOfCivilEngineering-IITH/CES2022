@@ -97,7 +97,7 @@ const content={
                     <div className="card" style={main_card}>
                         <div className="card-body" style={main_card_body}>
 <h2 style={tittle}>Alumni Talk 2022</h2>
-<img src={amar} style={img}></img>
+<img src={amar} alt=" " style={img}></img>
 <h3  style={speaker_name}> Mr. Amar Mandal</h3>
 <h3 style={abstract}>Abstract:-</h3>
 <p style={content}>Mr Amar Mandal graduated with a B.Tech in Civil Engineering from IIT Hyderabad in 2021 and is currently an executive trainee at GAIL(India) Limited. The talk was about him sharing his experiences at IIT Hyderabad and his placement. He also gave some tips about the preparation for PSU’s</p>
@@ -106,7 +106,7 @@ const content={
                     <div className="card" style={main_card}>
                         <div className="card-body" style={main_card_body}>
 <h2 style={tittle}>Autonomous Visio-based Condition Damage Assessment of Structures</h2>
-<img src={tarutal} style={img}></img>
+<img src={tarutal} alt=" " style={img}></img>
 <h3  style={speaker_name}> Dr. Tarutal Ghosh Mondal</h3>
 <h3 style={abstract}>Abstract:-</h3>
 <p style={content}>The talk was delivered by our noted alumnus Dr. Tarutal Ghosh Mondal, Ph.D. from Purdue University, USA. He completed his M.Tech. in Structural Engineering from IIT Hyderabad in 2016 with a perfect 10 CGPA and President's Gold Medal. The enlightening presentation was attended by ~ 40 guests and faculty.</p>

@@ -105,15 +105,15 @@ const Gallery = () => {
                         <div className="card-body" style={main_card_body}>
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_1} style={img}></img>
+        <img src={pic_1} alt=" " style={img}></img>
         <p style={content}>Teacher's day celebrations</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_2} style={img}></img>
+        <img src={pic_2} alt=" " style={img}></img>
         <p style={content}>Teacher's day celebrations</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_3} style={img}></img>
+        <img src={pic_3} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
 </div>
@@ -121,31 +121,15 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_4} style={img}></img>
+        <img src={pic_4} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_5} style={img}></img>
+        <img src={pic_5} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_6} style={img}></img>
-        <p style={content}>Field Trip</p>
-    </div>
-</div>
-
-
-<div className='row'>
-    <div className='col-lg-4' style={img_col}>
-        <img src={pic_7} style={img}></img>
-        <p style={content}>Field Trip</p>
-    </div>
-    <div className='col-lg-4' style={img_col}>
-        <img src={pic_8} style={img}></img>
-        <p style={content}>Field Trip</p>
-    </div>
-    <div className='col-lg-4' style={img_col}>
-        <img src={pic_9} style={img}></img>
+        <img src={pic_6} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
 </div>
@@ -153,15 +137,15 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_10} style={img}></img>
+        <img src={pic_7} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_11} style={img}></img>
+        <img src={pic_8} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_12} style={img}></img>
+        <img src={pic_9} alt=" " style={img}></img>
         <p style={content}>Field Trip</p>
     </div>
 </div>
@@ -169,15 +153,31 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_13} style={img}></img>
+        <img src={pic_10} alt=" " style={img}></img>
+        <p style={content}>Field Trip</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_11} alt=" " style={img}></img>
+        <p style={content}>Field Trip</p>
+    </div>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_12} alt=" " style={img}></img>
+        <p style={content}>Field Trip</p>
+    </div>
+</div>
+
+
+<div className='row'>
+    <div className='col-lg-4' style={img_col}>
+        <img src={pic_13} alt=" " style={img}></img>
         <p style={content}>Civil Engineering Research Scholars Day prize distribution ceremony</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_14} style={img}></img>
+        <img src={pic_14} alt=" " style={img}></img>
         <p style={content}>prize distributions</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_15} style={img}></img>
+        <img src={pic_15} alt=" " style={img}></img>
         <p style={content}>prize distributions</p>
     </div>
 </div>
@@ -186,15 +186,15 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_19} style={img}></img>
+        <img src={pic_19} alt=" " style={img}></img>
         <p style={content}>Civil Department Sports Matches</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_20} style={img}></img>
+        <img src={pic_20} alt=" " style={img}></img>
         <p style={content}>Civil Department Sports Matches</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_21} style={img}></img>
+        <img src={pic_21} alt=" " style={img}></img>
         <p style={content}>Civil Department Sports Matches</p>
     </div>
 </div>
@@ -204,15 +204,15 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_16} style={img}></img>
+        <img src={pic_16} alt=" " style={img}></img>
         <p style={content}>prize distributions</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_17} style={img}></img>
+        <img src={pic_17} alt=" " style={img}></img>
         <p style={content}>Civil Engineering Research Scholars Day prize distribution ceremony</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_18} style={img}></img>
+        <img src={pic_18} alt=" " style={img}></img>
         <p style={content}>Civil Engineering Research Scholars Day prize distribution ceremony</p>
     </div>
 </div>
@@ -221,15 +221,15 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_22} style={img}></img>
+        <img src={pic_22} alt=" " style={img}></img>
         <p style={content}>Faculty's and Student's Informal Sports</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_23} style={img}></img>
+        <img src={pic_23} alt=" " style={img}></img>
         <p style={content}>Faculty's and Student's Informal Sports</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_24} style={img}></img>
+        <img src={pic_24} alt=" " style={img}></img>
         <p style={content}></p>
     </div>
 </div>
@@ -238,11 +238,11 @@ const Gallery = () => {
 
 <div className='row'>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_25} style={img}></img>
+        <img src={pic_25} alt=" " style={img}></img>
         <p style={content}>Dr. Somala receiving Faculty Research Excellence Award 2022 on Institute Foundation Day</p>
     </div>
     <div className='col-lg-4' style={img_col}>
-        <img src={pic_26} style={img}></img>
+        <img src={pic_26} alt=" " style={img}></img>
         <p style={content}>Dr. Somala receiving Faculty Research Excellence Award 2022 on Institute Foundation Day</p>
     </div>
     
