@@ -128,7 +128,7 @@ const Team_2122 = () => {
                                 <center><h1 style={faculty}>Faculty</h1></center>
                                 <center><hr style={hr_2}></hr></center>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={surya} style={img} />
+                                    <img src={surya} alt=" " style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -143,7 +143,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={digvijay} style={img} />
+                                    <img src={digvijay} alt=" " style={img} />
                                     <div className="card" style={team_card} >
 
 
@@ -169,7 +169,7 @@ const Team_2122 = () => {
 
                                 <div className='row justify-content-center' >
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={vedashree} style={img} />
+                                    <img src={vedashree} alt=" " style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -191,7 +191,7 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ smita} style={img} />
+                                    <img src={ smita} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Smita Singh</h5>
@@ -205,7 +205,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ kuldeep}  style={img} />
+                                    <img src={ kuldeep} alt=" "  style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -222,7 +222,7 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ sheeraja} style={img} />
+                                    <img src={ sheeraja} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">A.L.Ksheeraja</h5>
@@ -236,7 +236,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ aditya} style={img} />
+                                    <img src={ aditya} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Aaditya Thakkar</h5>
@@ -260,7 +260,7 @@ const Team_2122 = () => {
 
                         
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ ganapati} style={img} />
+                                    <img src={ ganapati} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Ganapati M Patil</h5>
@@ -274,7 +274,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ shridhar}  style={img} />
+                                    <img src={ shridhar} alt=" "  style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -291,7 +291,7 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ swapnil} style={img} />
+                                    <img src={ swapnil} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Swapnil Vaidya</h5>
@@ -305,7 +305,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ sumit} style={img} />
+                                    <img src={ sumit} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Sumit Saha</h5>
@@ -329,7 +329,7 @@ const Team_2122 = () => {
                             <div className='row justify-content-center' >
                             
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ bhuvanesh} style={img} />
+                                    <img src={ bhuvanesh} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Bhuvenesh Sharma</h5>
@@ -343,7 +343,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={lachiram }  style={img} />
+                                    <img src={lachiram } alt=" "  style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -360,7 +360,7 @@ const Team_2122 = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ saikrishi} style={img} />
+                                    <img src={ saikrishi} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Sai Krishi</h5>
@@ -374,7 +374,7 @@ const Team_2122 = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ saivenkat} style={img} />
+                                    <img src={ saivenkat} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">N.Sai Venkat</h5>

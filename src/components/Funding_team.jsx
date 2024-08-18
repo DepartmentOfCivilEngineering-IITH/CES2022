@@ -119,7 +119,7 @@ const Funding_team = () => {
                                 <center><h1 style={faculty}>Faculty</h1></center>
                                 <center><hr style={hr_2}></hr></center>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={surya} style={img} />
+                                    <img src={surya} alt=" " style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -134,7 +134,7 @@ const Funding_team = () => {
                                     </div>
                                 </div>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={digvijay} style={img} />
+                                    <img src={digvijay} alt=" " style={img} />
                                     <div className="card" style={team_card} >
 
 
@@ -159,7 +159,7 @@ const Funding_team = () => {
                                 <center><hr style={hr_2}></hr></center>
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={ganapati} style={img} />
+                                    <img src={ganapati} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Ganapati M Patil</h5>
@@ -173,7 +173,7 @@ const Funding_team = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={pratik} style={img} />
+                                    <img src={pratik} alt=" " style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -190,7 +190,7 @@ const Funding_team = () => {
 
 
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={dhanush} style={img} />
+                                    <img src={dhanush} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Dhanush Sahasra</h5>
@@ -204,7 +204,7 @@ const Funding_team = () => {
                                     </div>
                                 </div>
                                 <div className='col-lg-3' style={card_col}>
-                                    <img src={hariomsingh} style={img} />
+                                    <img src={hariomsingh} alt=" " style={img} />
                                     <div className="card" style={team_card} >
                                         <div className="card-body">
                                             <h5 className="card-title">Hari Om Singh</h5>
@@ -226,7 +226,7 @@ const Funding_team = () => {
                                 <center><h1 style={faculty}>Web-Designers</h1></center>
                                 <center><hr style={hr_2}></hr></center>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={lachiram} style={img} />
+                                    <img src={lachiram} alt=" " style={img} />
                                     <div className="card " style={team_card}>
 
                                         <div className="card-body">
@@ -241,7 +241,7 @@ const Funding_team = () => {
                                     </div>
                                 </div>
                                 <div className='col-md-4' style={card_col}>
-                                    <img src={sowbhagya} style={img} />
+                                    <img src={sowbhagya} alt=" " style={img} />
                                     <div className="card" style={team_card} >
 
 

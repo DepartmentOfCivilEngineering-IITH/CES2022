@@ -78,6 +78,7 @@ export class Navbar extends Component {
                         <div className="collapse" id="collapseExamples">
                           <div className="card card-body">
 
+                            <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="team_2324" className="dropdown-item">Team 2023-2024</NavLink></li>
                             <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="team_2223" className="dropdown-item">Team 2022-2023</NavLink></li>
                             <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="team_2122" className="dropdown-item">Team 2021-2022</NavLink></li>
                             <li data-bs-dismiss="offcanvas"><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Founding Team</NavLink></li>
@@ -115,7 +116,7 @@ export class Navbar extends Component {
 
 
             {/* website menu */}
-            <a className="navbar-brand" href="/"><img src={img}></img></a>
+            <a className="navbar-brand" href="/"><img src={img} alt=" "></img></a>
             {/*<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
   </button>*/}
@@ -151,6 +152,7 @@ export class Navbar extends Component {
                   </a>
                   <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   
+                  <li><NavLink exact activeClassName="active_class" to="team_2324" className="dropdown-item">Team 2023-2024</NavLink></li>
                   <li><NavLink exact activeClassName="active_class" to="team_2223" className="dropdown-item">Team 2022-2023</NavLink></li>
                   <li><NavLink exact activeClassName="active_class" to="team_2122" className="dropdown-item">Team 2021-2022</NavLink></li>
                             <li><NavLink exact activeClassName="active_class" to="funding_team" className="dropdown-item">Founding Team</NavLink></li>
@@ -163,7 +165,7 @@ export class Navbar extends Component {
 
                       </li>
                       <li className="nav-item">
-                        <NavLink exact activeClassName="active_class" to="/gallery" className='nav-link'>Gallary</NavLink>
+                        <NavLink exact activeClassName="active_class" to="/gallery" className='nav-link'>Gallery</NavLink>
 
                       </li>
                       <li className="nav-item">
